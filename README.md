@@ -42,6 +42,7 @@ Organized in cloude with .json format
 Extracted from minecraft-mp.com to json and contained in raw github content. You can change the json url.
 
 
+### <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/zap.svg" width="24" height="24" align="center" /> More details
 Modpacks list is coming from a raw github json file that you can change. You can change, add and remove mods/modpacks without opening the launcher.
 Modpack format is really easy to understand its just a json list that contains modrinth links or direct file download links.
 Server List uses exact minecraft-mp.com data. You can aslo change the data source. 
