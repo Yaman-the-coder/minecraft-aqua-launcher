@@ -62,5 +62,5 @@ Server List uses exact minecraft-mp.com data. You can aslo change the data sourc
 <br>
 <hr>
 <p align="center">
-  <small>Made with <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/heart.svg" width="14" height="14" align="center" /> by <a href="https://github.com/yamanist">yamanist</a></small>
+  <small>Made with 🤍 by <a href="https://github.com/yamanist">yamanist</a></small>
 </p>
